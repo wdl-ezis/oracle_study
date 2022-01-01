@@ -1,3 +1,3 @@
 # oracle_study
-amgalan
+sominpark
  오라클 지식 공유
