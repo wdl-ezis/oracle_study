@@ -1,3 +1,3 @@
 # oracle_study
-amgalan
+joonghyun kim
  오라클 지식 공유
